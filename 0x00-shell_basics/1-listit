@@ -1,2 +1,2 @@
 #!/bin/bash
-echo $ ls -l -d -h
+echo $ ls -d 
